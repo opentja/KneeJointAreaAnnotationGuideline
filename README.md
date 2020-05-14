@@ -10,7 +10,7 @@ For the purpose of being reliable, we used anatomical landmarks of the knee join
 </p>
 
 
-<strong>Paper</strong>: 
+## Papers
 To be announced soon. They are under review now. 
 
 
